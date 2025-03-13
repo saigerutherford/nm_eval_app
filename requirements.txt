@@ -4,7 +4,4 @@ dash-html-components==2.0.0
 dash-table==5.0.0
 pandas
 plotly
-io
-base64
-datetime
 gunicorn==20.1.0
